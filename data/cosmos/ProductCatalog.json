@@ -1,0 +1,682 @@
+[
+  {
+    "id": "PAINT001",
+    "ProductId": "PAINT001",
+    "ProductName": "Pure White Interior Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Interior Paint",
+    "Brand": "Zava Home",
+    "ProductDescription": "Bright, clean white latex paint with an eggshell finish. Low-VOC and washable, ideal for living rooms, bedrooms and hallways. Covers up to 400 sq ft per gallon.",
+    "FormattedPriceWithDollarSign": "$38.99"
+  },
+  {
+    "id": "PAINT002",
+    "ProductId": "PAINT002",
+    "ProductName": "Coastal Blue Interior Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Interior Paint",
+    "Brand": "Zava Home",
+    "ProductDescription": "Calm soft blue with gray undertones that creates a relaxed, airy feel in living rooms and bedrooms. Matte finish, one-coat coverage, up to 400 sq ft per gallon.",
+    "FormattedPriceWithDollarSign": "$42.99"
+  },
+  {
+    "id": "PAINT003",
+    "ProductId": "PAINT003",
+    "ProductName": "Sage Green Interior Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Interior Paint",
+    "Brand": "Zava Home",
+    "ProductDescription": "Muted earthy green that pairs well with natural wood and neutral furniture. Popular for living rooms and home offices. Satin finish, up to 400 sq ft per gallon.",
+    "FormattedPriceWithDollarSign": "$42.99"
+  },
+  {
+    "id": "PAINT004",
+    "ProductId": "PAINT004",
+    "ProductName": "Warm Greige Interior Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Interior Paint",
+    "Brand": "Zava Home",
+    "ProductDescription": "Versatile blend of warm gray and beige that works in almost any room, a top choice for open-concept living spaces. Eggshell finish, up to 400 sq ft per gallon.",
+    "FormattedPriceWithDollarSign": "$40.99"
+  },
+  {
+    "id": "PAINT005",
+    "ProductId": "PAINT005",
+    "ProductName": "Terracotta Accent Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Accent Paint",
+    "Brand": "Zava Home",
+    "ProductDescription": "Rich warm terracotta for accent walls in living and dining rooms. Matte finish with excellent hide, up to 350 sq ft per gallon.",
+    "FormattedPriceWithDollarSign": "$44.99"
+  },
+  {
+    "id": "PAINT006",
+    "ProductId": "PAINT006",
+    "ProductName": "Charcoal Night Interior Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Accent Paint",
+    "Brand": "Zava Home",
+    "ProductDescription": "Deep charcoal gray that adds drama and depth to living rooms, dens and accent walls. Satin finish, scuff resistant, up to 375 sq ft per gallon.",
+    "FormattedPriceWithDollarSign": "$44.99"
+  },
+  {
+    "id": "PAINT007",
+    "ProductId": "PAINT007",
+    "ProductName": "Soft Blush Interior Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Interior Paint",
+    "Brand": "Zava Home",
+    "ProductDescription": "Subtle warm pink that creates a cozy, welcoming atmosphere in bedrooms and living areas. Eggshell finish, low-VOC, up to 400 sq ft per gallon.",
+    "FormattedPriceWithDollarSign": "$41.99"
+  },
+  {
+    "id": "PAINT008",
+    "ProductId": "PAINT008",
+    "ProductName": "Exterior Weatherguard Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Exterior Paint",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Durable exterior acrylic paint with UV and mildew resistance for siding, trim and fences. Satin finish, up to 350 sq ft per gallon.",
+    "FormattedPriceWithDollarSign": "$54.99"
+  },
+  {
+    "id": "PAINT009",
+    "ProductId": "PAINT009",
+    "ProductName": "Primer and Sealer, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Primer",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Stain-blocking interior and exterior primer that improves adhesion and color accuracy. Recommended before switching from dark to light colors.",
+    "FormattedPriceWithDollarSign": "$29.99"
+  },
+  {
+    "id": "PAINT010",
+    "ProductId": "PAINT010",
+    "ProductName": "Ceiling Flat White Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Ceiling Paint",
+    "Brand": "Zava Home",
+    "ProductDescription": "Ultra-flat white paint for ceilings that hides imperfections and reduces glare. Goes on pink so you can see coverage and dries white.",
+    "FormattedPriceWithDollarSign": "$34.99"
+  },
+  {
+    "id": "PAINT011",
+    "ProductId": "PAINT011",
+    "ProductName": "Mold-Resistant Bathroom Paint, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Specialty Paint",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Satin interior paint formulated to resist mildew in high-humidity bathrooms and laundry rooms.",
+    "FormattedPriceWithDollarSign": "$46.99"
+  },
+  {
+    "id": "PAINT012",
+    "ProductId": "PAINT012",
+    "ProductName": "Deck Stain and Sealer, 1 Gallon",
+    "Category": "Paint",
+    "Subcategory": "Wood Finish",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Semi-transparent stain that protects decks and fences from UV and water damage.",
+    "FormattedPriceWithDollarSign": "$39.99"
+  },
+  {
+    "id": "PSUP001",
+    "ProductId": "PSUP001",
+    "ProductName": "ProSpray Electric Paint Sprayer",
+    "Category": "Paint Supplies",
+    "Subcategory": "Sprayers",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Airless electric sprayer that delivers a smooth, even finish up to five times faster than a roller. Ideal for large rooms, fences and cabinets. Adjustable flow control.",
+    "FormattedPriceWithDollarSign": "$189.99"
+  },
+  {
+    "id": "PSUP002",
+    "ProductId": "PSUP002",
+    "ProductName": "Handheld HVLP Paint Sprayer",
+    "Category": "Paint Supplies",
+    "Subcategory": "Sprayers",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Lightweight handheld sprayer for furniture, trim and small projects. Three spray patterns and a 1-liter container.",
+    "FormattedPriceWithDollarSign": "$89.99"
+  },
+  {
+    "id": "PSUP003",
+    "ProductId": "PSUP003",
+    "ProductName": "Painter's Tape, 1.88 in x 60 yd, 3-Pack",
+    "Category": "Paint Supplies",
+    "Subcategory": "Tape",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Clean-release painter's tape that prevents bleed-through for sharp lines. Removes cleanly for up to 14 days.",
+    "FormattedPriceWithDollarSign": "$17.99"
+  },
+  {
+    "id": "PSUP004",
+    "ProductId": "PSUP004",
+    "ProductName": "9-inch Roller Kit, 7-Piece",
+    "Category": "Paint Supplies",
+    "Subcategory": "Rollers",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Complete roller kit with frame, two covers, tray, liner, angled brush and extension-ready handle.",
+    "FormattedPriceWithDollarSign": "$24.99"
+  },
+  {
+    "id": "PSUP005",
+    "ProductId": "PSUP005",
+    "ProductName": "Premium Angled Brush Set, 3-Piece",
+    "Category": "Paint Supplies",
+    "Subcategory": "Brushes",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Angled sash brushes in 1.5, 2 and 2.5 inch sizes for cutting in edges and trim.",
+    "FormattedPriceWithDollarSign": "$19.99"
+  },
+  {
+    "id": "PSUP006",
+    "ProductId": "PSUP006",
+    "ProductName": "Canvas Drop Cloth, 9 x 12 ft",
+    "Category": "Paint Supplies",
+    "Subcategory": "Protection",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Heavy-duty reusable canvas drop cloth that protects floors and furniture from paint spills.",
+    "FormattedPriceWithDollarSign": "$22.99"
+  },
+  {
+    "id": "PSUP007",
+    "ProductId": "PSUP007",
+    "ProductName": "Telescoping Extension Pole, 4 to 8 ft",
+    "Category": "Paint Supplies",
+    "Subcategory": "Accessories",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Lightweight aluminum pole that reaches ceilings and high walls without a ladder.",
+    "FormattedPriceWithDollarSign": "$21.99"
+  },
+  {
+    "id": "PSUP008",
+    "ProductId": "PSUP008",
+    "ProductName": "Spackle and Putty Knife Kit",
+    "Category": "Paint Supplies",
+    "Subcategory": "Prep",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Lightweight spackle with two putty knives for filling nail holes and small cracks before painting.",
+    "FormattedPriceWithDollarSign": "$12.99"
+  },
+  {
+    "id": "TOOL001",
+    "ProductId": "TOOL001",
+    "ProductName": "20V Cordless Drill Driver Kit",
+    "Category": "Tools",
+    "Subcategory": "Power Tools",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Compact 20V drill with two batteries, charger and 30-piece bit set. Two-speed gearbox for drilling and driving.",
+    "FormattedPriceWithDollarSign": "$129.99"
+  },
+  {
+    "id": "TOOL002",
+    "ProductId": "TOOL002",
+    "ProductName": "Laser Level with Tripod",
+    "Category": "Tools",
+    "Subcategory": "Measuring",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Self-leveling cross-line laser for hanging shelves, art and cabinets. Includes adjustable tripod.",
+    "FormattedPriceWithDollarSign": "$69.99"
+  },
+  {
+    "id": "TOOL003",
+    "ProductId": "TOOL003",
+    "ProductName": "65-Piece Home Tool Set",
+    "Category": "Tools",
+    "Subcategory": "Hand Tools",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Essential toolkit with hammer, screwdrivers, pliers, tape measure, level and hex keys in a durable case.",
+    "FormattedPriceWithDollarSign": "$59.99"
+  },
+  {
+    "id": "TOOL004",
+    "ProductId": "TOOL004",
+    "ProductName": "Stud Finder with Wire Detection",
+    "Category": "Tools",
+    "Subcategory": "Measuring",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Detects wood and metal studs plus live AC wires behind drywall. Clear LCD display.",
+    "FormattedPriceWithDollarSign": "$34.99"
+  },
+  {
+    "id": "TOOL005",
+    "ProductId": "TOOL005",
+    "ProductName": "6-ft Aluminum Step Ladder",
+    "Category": "Tools",
+    "Subcategory": "Ladders",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Lightweight step ladder with 250 lb capacity, tool tray and slip-resistant feet.",
+    "FormattedPriceWithDollarSign": "$89.99"
+  },
+  {
+    "id": "TOOL006",
+    "ProductId": "TOOL006",
+    "ProductName": "Cordless Orbital Sander",
+    "Category": "Tools",
+    "Subcategory": "Power Tools",
+    "Brand": "Zava Pro",
+    "ProductDescription": "5-inch random orbital sander with dust collection for smooth prep on wood and furniture.",
+    "FormattedPriceWithDollarSign": "$79.99"
+  },
+  {
+    "id": "TOOL007",
+    "ProductId": "TOOL007",
+    "ProductName": "Rolling Tool Chest",
+    "Category": "Tools",
+    "Subcategory": "Storage",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Steel tool chest with five ball-bearing drawers and locking casters.",
+    "FormattedPriceWithDollarSign": "$199.99"
+  },
+  {
+    "id": "LIGHT001",
+    "ProductId": "LIGHT001",
+    "ProductName": "Modern Arc Floor Lamp",
+    "Category": "Lighting",
+    "Subcategory": "Floor Lamps",
+    "Brand": "Zava Home",
+    "ProductDescription": "Brushed brass arc floor lamp with a linen drum shade for warm ambient light over sofas and reading chairs.",
+    "FormattedPriceWithDollarSign": "$149.99"
+  },
+  {
+    "id": "LIGHT002",
+    "ProductId": "LIGHT002",
+    "ProductName": "Smart LED Bulb, 4-Pack",
+    "Category": "Lighting",
+    "Subcategory": "Smart Bulbs",
+    "Brand": "Zava Home",
+    "ProductDescription": "Wi-Fi color-changing LED bulbs, 60W equivalent, controlled from the Zava Home app or voice assistants.",
+    "FormattedPriceWithDollarSign": "$39.99"
+  },
+  {
+    "id": "LIGHT003",
+    "ProductId": "LIGHT003",
+    "ProductName": "Rattan Pendant Light",
+    "Category": "Lighting",
+    "Subcategory": "Pendants",
+    "Brand": "Zava Home",
+    "ProductDescription": "Handwoven rattan pendant that casts soft patterned light over dining tables and kitchen islands.",
+    "FormattedPriceWithDollarSign": "$119.99"
+  },
+  {
+    "id": "LIGHT004",
+    "ProductId": "LIGHT004",
+    "ProductName": "LED Under-Cabinet Light Kit",
+    "Category": "Lighting",
+    "Subcategory": "Under Cabinet",
+    "Brand": "Zava Home",
+    "ProductDescription": "Dimmable LED light bars for kitchen cabinets and shelves. Plug-in installation, no wiring required.",
+    "FormattedPriceWithDollarSign": "$49.99"
+  },
+  {
+    "id": "LIGHT005",
+    "ProductId": "LIGHT005",
+    "ProductName": "Ceramic Table Lamp",
+    "Category": "Lighting",
+    "Subcategory": "Table Lamps",
+    "Brand": "Zava Home",
+    "ProductDescription": "Textured ceramic base with an ivory shade, a warm accent for side tables and nightstands.",
+    "FormattedPriceWithDollarSign": "$64.99"
+  },
+  {
+    "id": "LIGHT006",
+    "ProductId": "LIGHT006",
+    "ProductName": "Solar String Lights, 48 ft",
+    "Category": "Lighting",
+    "Subcategory": "Outdoor Lighting",
+    "Brand": "Zava Home",
+    "ProductDescription": "Weatherproof solar string lights with 24 shatterproof bulbs for patios and pergolas.",
+    "FormattedPriceWithDollarSign": "$39.99"
+  },
+  {
+    "id": "KITCH001",
+    "ProductId": "KITCH001",
+    "ProductName": "Non-Stick Frying Pan, 12 inch",
+    "Category": "Kitchenware",
+    "Subcategory": "Cookware",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Durable non-stick frying pan with a stay-cool handle, oven safe to 400F.",
+    "FormattedPriceWithDollarSign": "$34.99"
+  },
+  {
+    "id": "KITCH002",
+    "ProductId": "KITCH002",
+    "ProductName": "Stainless Steel Cookware Set, 10-Piece",
+    "Category": "Kitchenware",
+    "Subcategory": "Cookware",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Tri-ply stainless steel pots and pans with glass lids, induction compatible.",
+    "FormattedPriceWithDollarSign": "$219.99"
+  },
+  {
+    "id": "KITCH003",
+    "ProductId": "KITCH003",
+    "ProductName": "Stainless Steel Pull-Down Kitchen Faucet",
+    "Category": "Kitchenware",
+    "Subcategory": "Faucets",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Single-handle faucet with pull-down sprayer and spot-resistant finish.",
+    "FormattedPriceWithDollarSign": "$179.99"
+  },
+  {
+    "id": "KITCH004",
+    "ProductId": "KITCH004",
+    "ProductName": "Peel and Stick Subway Backsplash Tile, 10-Pack",
+    "Category": "Kitchenware",
+    "Subcategory": "Backsplash",
+    "Brand": "Zava Home",
+    "ProductDescription": "White subway tile look panels that install without grout. Water resistant and easy to cut.",
+    "FormattedPriceWithDollarSign": "$44.99"
+  },
+  {
+    "id": "KITCH005",
+    "ProductId": "KITCH005",
+    "ProductName": "Matte Black Cabinet Pulls, 10-Pack",
+    "Category": "Kitchenware",
+    "Subcategory": "Hardware",
+    "Brand": "Zava Home",
+    "ProductDescription": "Modern 5-inch cabinet pulls in matte black, mounting screws included.",
+    "FormattedPriceWithDollarSign": "$27.99"
+  },
+  {
+    "id": "KITCH006",
+    "ProductId": "KITCH006",
+    "ProductName": "Glass Food Storage Set, 18-Piece",
+    "Category": "Kitchenware",
+    "Subcategory": "Storage",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Borosilicate glass containers with locking lids, microwave and dishwasher safe.",
+    "FormattedPriceWithDollarSign": "$39.99"
+  },
+  {
+    "id": "KITCH007",
+    "ProductId": "KITCH007",
+    "ProductName": "Chef Knife Block Set, 14-Piece",
+    "Category": "Kitchenware",
+    "Subcategory": "Cutlery",
+    "Brand": "Zava Retail",
+    "ProductDescription": "High-carbon stainless knives with a hardwood storage block.",
+    "FormattedPriceWithDollarSign": "$129.99"
+  },
+  {
+    "id": "DECOR001",
+    "ProductId": "DECOR001",
+    "ProductName": "Oversized Canvas Wall Art, 36 x 48 in",
+    "Category": "Home Decor",
+    "Subcategory": "Wall Art",
+    "Brand": "Zava Home",
+    "ProductDescription": "Abstract canvas art in soft neutral tones, ready to hang on living room focal walls.",
+    "FormattedPriceWithDollarSign": "$129.99"
+  },
+  {
+    "id": "DECOR002",
+    "ProductId": "DECOR002",
+    "ProductName": "Linen Blackout Curtains, 2 Panels",
+    "Category": "Home Decor",
+    "Subcategory": "Window",
+    "Brand": "Zava Home",
+    "ProductDescription": "Textured linen-look curtains that block light and help insulate rooms. 52 x 84 in each.",
+    "FormattedPriceWithDollarSign": "$59.99"
+  },
+  {
+    "id": "DECOR003",
+    "ProductId": "DECOR003",
+    "ProductName": "Floating Wall Shelves, Set of 3",
+    "Category": "Home Decor",
+    "Subcategory": "Shelving",
+    "Brand": "Zava Home",
+    "ProductDescription": "Solid wood floating shelves with hidden brackets for books, plants and decor.",
+    "FormattedPriceWithDollarSign": "$49.99"
+  },
+  {
+    "id": "DECOR004",
+    "ProductId": "DECOR004",
+    "ProductName": "Decorative Throw Pillow Covers, 4-Pack",
+    "Category": "Home Decor",
+    "Subcategory": "Textiles",
+    "Brand": "Zava Home",
+    "ProductDescription": "Woven cotton covers in coordinated neutral colors, 18 x 18 in.",
+    "FormattedPriceWithDollarSign": "$32.99"
+  },
+  {
+    "id": "DECOR005",
+    "ProductId": "DECOR005",
+    "ProductName": "Round Brass Wall Mirror, 30 inch",
+    "Category": "Home Decor",
+    "Subcategory": "Mirrors",
+    "Brand": "Zava Home",
+    "ProductDescription": "Thin brass-finish frame that brightens entryways and living rooms.",
+    "FormattedPriceWithDollarSign": "$119.99"
+  },
+  {
+    "id": "DECOR006",
+    "ProductId": "DECOR006",
+    "ProductName": "Faux Fiddle Leaf Fig, 5 ft",
+    "Category": "Home Decor",
+    "Subcategory": "Plants",
+    "Brand": "Zava Home",
+    "ProductDescription": "Realistic artificial plant in a weighted pot, no maintenance required.",
+    "FormattedPriceWithDollarSign": "$89.99"
+  },
+  {
+    "id": "FLOOR001",
+    "ProductId": "FLOOR001",
+    "ProductName": "Oak Luxury Vinyl Plank, 20 sq ft",
+    "Category": "Flooring",
+    "Subcategory": "Vinyl Plank",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Waterproof luxury vinyl plank with realistic oak texture and click-lock installation.",
+    "FormattedPriceWithDollarSign": "$59.99"
+  },
+  {
+    "id": "FLOOR002",
+    "ProductId": "FLOOR002",
+    "ProductName": "Wool Blend Area Rug, 5 x 8 ft",
+    "Category": "Flooring",
+    "Subcategory": "Rugs",
+    "Brand": "Zava Home",
+    "ProductDescription": "Soft wool blend rug in a neutral geometric pattern that adds warmth to living rooms.",
+    "FormattedPriceWithDollarSign": "$229.99"
+  },
+  {
+    "id": "FLOOR003",
+    "ProductId": "FLOOR003",
+    "ProductName": "Non-Slip Rug Pad, 5 x 8 ft",
+    "Category": "Flooring",
+    "Subcategory": "Rug Pads",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Cushioned pad that keeps rugs in place and protects hardwood floors.",
+    "FormattedPriceWithDollarSign": "$29.99"
+  },
+  {
+    "id": "FLOOR004",
+    "ProductId": "FLOOR004",
+    "ProductName": "Porcelain Floor Tile, 12 x 24 in, 10-Pack",
+    "Category": "Flooring",
+    "Subcategory": "Tile",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Matte gray porcelain tile for kitchens, bathrooms and entryways.",
+    "FormattedPriceWithDollarSign": "$49.99"
+  },
+  {
+    "id": "BATH001",
+    "ProductId": "BATH001",
+    "ProductName": "Rainfall Shower Head, 10 inch",
+    "Category": "Bathroom",
+    "Subcategory": "Showers",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Wide rainfall shower head with anti-clog nozzles and chrome finish.",
+    "FormattedPriceWithDollarSign": "$79.99"
+  },
+  {
+    "id": "BATH002",
+    "ProductId": "BATH002",
+    "ProductName": "Framed Vanity Mirror, 24 x 36 in",
+    "Category": "Bathroom",
+    "Subcategory": "Mirrors",
+    "Brand": "Zava Home",
+    "ProductDescription": "Rectangular mirror with a slim matte black frame, mounts vertically or horizontally.",
+    "FormattedPriceWithDollarSign": "$99.99"
+  },
+  {
+    "id": "BATH003",
+    "ProductId": "BATH003",
+    "ProductName": "30-inch Bathroom Vanity with Sink",
+    "Category": "Bathroom",
+    "Subcategory": "Vanities",
+    "Brand": "Zava Home",
+    "ProductDescription": "Shaker-style vanity with soft-close doors and a ceramic sink top.",
+    "FormattedPriceWithDollarSign": "$399.99"
+  },
+  {
+    "id": "BATH004",
+    "ProductId": "BATH004",
+    "ProductName": "Bath Towel Set, 6-Piece",
+    "Category": "Bathroom",
+    "Subcategory": "Accessories",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Plush cotton towels in a spa-inspired neutral palette.",
+    "FormattedPriceWithDollarSign": "$44.99"
+  },
+  {
+    "id": "OUT001",
+    "ProductId": "OUT001",
+    "ProductName": "Acacia Wood Patio Set, 4-Piece",
+    "Category": "Outdoor Living",
+    "Subcategory": "Furniture",
+    "Brand": "Zava Home",
+    "ProductDescription": "Outdoor loveseat, two chairs and coffee table in weather-treated acacia with cushions.",
+    "FormattedPriceWithDollarSign": "$649.99"
+  },
+  {
+    "id": "OUT002",
+    "ProductId": "OUT002",
+    "ProductName": "Raised Garden Bed Kit, 4 x 8 ft",
+    "Category": "Outdoor Living",
+    "Subcategory": "Garden",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Cedar raised bed kit for vegetables and flowers with tool-free assembly.",
+    "FormattedPriceWithDollarSign": "$129.99"
+  },
+  {
+    "id": "OUT003",
+    "ProductId": "OUT003",
+    "ProductName": "Expandable Garden Hose, 75 ft",
+    "Category": "Outdoor Living",
+    "Subcategory": "Garden",
+    "Brand": "Zava Retail",
+    "ProductDescription": "Lightweight expandable hose with a 10-pattern spray nozzle.",
+    "FormattedPriceWithDollarSign": "$34.99"
+  },
+  {
+    "id": "OUT004",
+    "ProductId": "OUT004",
+    "ProductName": "3-Burner Propane Gas Grill",
+    "Category": "Outdoor Living",
+    "Subcategory": "Grills",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Stainless steel grill with side shelves and built-in thermometer.",
+    "FormattedPriceWithDollarSign": "$449.99"
+  },
+  {
+    "id": "OUT005",
+    "ProductId": "OUT005",
+    "ProductName": "Patio Umbrella, 9 ft",
+    "Category": "Outdoor Living",
+    "Subcategory": "Shade",
+    "Brand": "Zava Home",
+    "ProductDescription": "Tilting market umbrella with UV-resistant fabric.",
+    "FormattedPriceWithDollarSign": "$79.99"
+  },
+  {
+    "id": "SMART001",
+    "ProductId": "SMART001",
+    "ProductName": "Smart Thermostat",
+    "Category": "Smart Home",
+    "Subcategory": "Climate",
+    "Brand": "Zava Home",
+    "ProductDescription": "Wi-Fi thermostat that learns your schedule and helps reduce energy costs.",
+    "FormattedPriceWithDollarSign": "$149.99"
+  },
+  {
+    "id": "SMART002",
+    "ProductId": "SMART002",
+    "ProductName": "Video Doorbell",
+    "Category": "Smart Home",
+    "Subcategory": "Security",
+    "Brand": "Zava Home",
+    "ProductDescription": "1080p video doorbell with motion alerts, two-way talk and night vision.",
+    "FormattedPriceWithDollarSign": "$99.99"
+  },
+  {
+    "id": "SMART003",
+    "ProductId": "SMART003",
+    "ProductName": "Smart Plug, 2-Pack",
+    "Category": "Smart Home",
+    "Subcategory": "Plugs",
+    "Brand": "Zava Home",
+    "ProductDescription": "Control lamps and small appliances from your phone with scheduling and energy monitoring.",
+    "FormattedPriceWithDollarSign": "$24.99"
+  },
+  {
+    "id": "SMART004",
+    "ProductId": "SMART004",
+    "ProductName": "Indoor Security Camera",
+    "Category": "Smart Home",
+    "Subcategory": "Security",
+    "Brand": "Zava Home",
+    "ProductDescription": "1080p indoor camera with privacy shutter and person detection.",
+    "FormattedPriceWithDollarSign": "$49.99"
+  },
+  {
+    "id": "SMART005",
+    "ProductId": "SMART005",
+    "ProductName": "Smart Keypad Door Lock",
+    "Category": "Smart Home",
+    "Subcategory": "Locks",
+    "Brand": "Zava Pro",
+    "ProductDescription": "Keyless deadbolt with keypad, app control and auto-lock.",
+    "FormattedPriceWithDollarSign": "$179.99"
+  },
+  {
+    "id": "FURN001",
+    "ProductId": "FURN001",
+    "ProductName": "Mid-Century Accent Chair",
+    "Category": "Furniture",
+    "Subcategory": "Seating",
+    "Brand": "Zava Home",
+    "ProductDescription": "Upholstered accent chair with tapered walnut legs and performance fabric.",
+    "FormattedPriceWithDollarSign": "$279.99"
+  },
+  {
+    "id": "FURN002",
+    "ProductId": "FURN002",
+    "ProductName": "Modular Sectional Sofa",
+    "Category": "Furniture",
+    "Subcategory": "Sofas",
+    "Brand": "Zava Home",
+    "ProductDescription": "Three-piece modular sectional with washable slipcovers and deep seats.",
+    "FormattedPriceWithDollarSign": "$1,299.99"
+  },
+  {
+    "id": "FURN003",
+    "ProductId": "FURN003",
+    "ProductName": "Round Marble Coffee Table",
+    "Category": "Furniture",
+    "Subcategory": "Tables",
+    "Brand": "Zava Home",
+    "ProductDescription": "Round coffee table with a faux marble top and brushed gold base.",
+    "FormattedPriceWithDollarSign": "$249.99"
+  },
+  {
+    "id": "FURN004",
+    "ProductId": "FURN004",
+    "ProductName": "Oak Bookcase, 5-Shelf",
+    "Category": "Furniture",
+    "Subcategory": "Storage",
+    "Brand": "Zava Home",
+    "ProductDescription": "Solid oak veneer bookcase with adjustable shelves.",
+    "FormattedPriceWithDollarSign": "$189.99"
+  }
+]

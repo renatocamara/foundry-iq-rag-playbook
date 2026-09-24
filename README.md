@@ -4,7 +4,7 @@ A hands-on playbook for building, securing, and tuning Retrieval-Augmented Gener
 
 This repository is based on the official Microsoft TechLab **[Building Intelligent Solutions with Microsoft Foundry IQ](https://github.com/microsoft/TechLab-Building-Intelligent-Solutions-with-Microsoft-Foundry-IQ)**. The official lab is the source of truth for the scenario and the step-by-step instructions. This playbook adds what we learned by reproducing the lab end to end in a customer-like environment: a private-network AI Landing Zone, plus demos focused on RAG accuracy, freshness, and evaluation.
 
-> **Note:** The lab assets that ship with the official TechLab environment (notebooks, ontology packages, agent scripts, and documents) are not redistributed here. Please refer to the official lab for those materials.
+> **Lab assets:** the files that ship with the official TechLab environment (notebook, ontology package, agent scripts, and documents) are available in [`lab-assets/`](lab-assets/). Synthetic data created for this playbook is in [`data/`](data/).
 
 ---
 

@@ -2,14 +2,16 @@
 *.env
 .env*
 !*.env.example
+!lab-assets/agents-build/parameters.env
 .venv/
 __pycache__/
 *.pyc
 
-# Official TechLab assets (not redistributed)
-*.whl
-*.iq
-*.ipynb_checkpoints/
+# Local working folder (never committed)
+temp/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
 
 # OS / editor
 .DS_Store

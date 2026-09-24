@@ -1,0 +1,17 @@
+# Secrets and local settings
+*.env
+.env*
+!*.env.example
+.venv/
+__pycache__/
+*.pyc
+
+# Official TechLab assets (not redistributed)
+*.whl
+*.iq
+*.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
